@@ -473,3 +473,11 @@ describe URL_SABFREE Suspect url : sabfree.org
 rawbody URL_WORKERS  /workers.dev/i
 score URL_WORKERS 6.0
 describe URL_WORKERS Suspect url : workers.dev
+
+rawbody URL_CLICKFUNNELS  /clickfunnels.com/i
+score URL_CLICKFUNNELS 6.0
+describe URL_CLICKFUNNELS Suspect url : clickfunnels.com
+
+rawbody URL_FLEEK  /fleek.co/i
+score URL_FLEEK 6.0
+describe URL_FLEEK Suspect url : fleek.co
