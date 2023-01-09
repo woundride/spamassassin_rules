@@ -10,7 +10,7 @@
 #                   |  _ <| |_| | |  __/\__ \
 #                   |_| \_\\__,_|_|\___||___/
 #
-# Detection Rules for Suricata
+# Detection Rules for SpamAssassin
 # 📜 Charles BLANC-ROLIN ⠵ - https://www.apssis.com - https://github.com/woundride/spamassassin_rules
 # Licence CC BY-NC-SA 4.0 : https://creativecommons.org/licenses/by-nc-sa/4.0/
 
@@ -481,3 +481,11 @@ describe URL_CLICKFUNNELS Suspect url : clickfunnels.com
 rawbody URL_FLEEK  /fleek.co/i
 score URL_FLEEK 6.0
 describe URL_FLEEK Suspect url : fleek.co
+
+rawbody URL_BOXMODE_IO  /boxmode.io/i
+score URL_BOXMODE_IO 6.0
+describe URL_BOXMODE_IO Suspect url : boxmode.io
+
+rawbody URL_BRITIX24  /bitrix24.site/i
+score URL_BRITIX24 6.0
+describe URL_BRITIX24 Suspect url : bitrix24.site
