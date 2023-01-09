@@ -434,9 +434,9 @@ rawbody URL_APP_PIPEFY  /app.pipefy.com/i
 score URL_APP_PIPEFY 6.0
 describe URL_APP_PIPEFY Suspect url : app.pipefy.com
 
-rawbody URL_BRITIX24  /.bitrix24./i
+rawbody URL_BRITRIX24  /.bitrix24./i
 score URL_BRITIX24 6.0
-describe URL_BRITIX24 Suspect url : .bitrix24.
+describe URL_BRITRIX24 Suspect url : .bitrix24.
 
 rawbody URL_AZURE  /.web.core.windows.net/i
 score URL_AZURE 6.0
@@ -485,7 +485,3 @@ describe URL_FLEEK Suspect url : fleek.co
 rawbody URL_BOXMODE_IO  /boxmode.io/i
 score URL_BOXMODE_IO 6.0
 describe URL_BOXMODE_IO Suspect url : boxmode.io
-
-rawbody URL_BRITIX24  /bitrix24.site/i
-score URL_BRITIX24 6.0
-describe URL_BRITIX24 Suspect url : bitrix24.site
