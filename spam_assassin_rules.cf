@@ -485,3 +485,7 @@ describe URL_FLEEK Suspect url : fleek.co
 rawbody URL_BOXMODE_IO  /boxmode.io/i
 score URL_BOXMODE_IO 6.0
 describe URL_BOXMODE_IO Suspect url : boxmode.io
+
+rawbody URL_FILESHARING_COM  /filesharing.com/i
+score URL_FILESHARING_COM 6.0
+describe URL_FILESHARING_COM  Suspect url : filesharing.com
