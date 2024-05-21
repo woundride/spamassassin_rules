@@ -489,3 +489,7 @@ describe URL_BOXMODE_IO Suspect url : boxmode.io
 rawbody URL_FILESHARING_COM  /filesharing.com/i
 score URL_FILESHARING_COM 6.0
 describe URL_FILESHARING_COM  Suspect url : filesharing.com
+
+rawbody URL_BUILDER_PREVIEW_COM  /builder-preview.com/i
+score URL_BUILDER_PREVIEW_COM 6.0
+describe URL_BUILDER_PREVIEW_COM  Suspect url : builder-preview.com
