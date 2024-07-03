@@ -493,3 +493,7 @@ describe URL_FILESHARING_COM  Suspect url : filesharing.com
 rawbody URL_BUILDER_PREVIEW_COM  /builder-preview.com/i
 score URL_BUILDER_PREVIEW_COM 6.0
 describe URL_BUILDER_PREVIEW_COM  Suspect url : builder-preview.com
+
+rawbody URL_WEBFLOW_IO  /webflow.io/i
+score URL_WEBFLOW_IO 6.0
+describe URL_WEBFLOW_IO  Suspect url : webflow.io
